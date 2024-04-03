@@ -38,7 +38,6 @@ Siga os passos abaixo, para instalar os serviços Web, Mobile e Server:
 
 ```bash
 # Instalando as dependências dos Server
-$ cd server
 $ npm install
 
 # Iniciando Server do projeto 
