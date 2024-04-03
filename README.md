@@ -28,8 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta.
 
 ```bash
-$ git clone 
-$ cd 
+$ git clone https://github.com/gomessgbr/NLW--Habits--backend.git
 ```
 
 Siga os passos abaixo, para instalar os serviços Web, Mobile e Server:
