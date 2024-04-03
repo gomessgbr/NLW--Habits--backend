@@ -28,8 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta.
 
 ```bash
-$ git clone https://github.com/JefMoreira/NLW-Setup-Habit.git
-$ cd nlw-setup-habit
+$ git clone 
+$ cd 
 ```
 
 Siga os passos abaixo, para instalar os serviços Web, Mobile e Server:
@@ -46,26 +46,6 @@ $ npx prisma migrate deploy
 $ npm run dev
 ```
 
-### Web
-
-```bash
-# Instalando as dependências Web
-$ cd web
-$ npm install
-
-# Iniciando o projeto Web
-$ npm start
-```
-### Mobile
-
-```bash
-# Instalando as dependências Mobile
-$ cd mobile
-$ npm install
-
-# Iniciando Server do mobile
-$ npm start
-```
 
 ## 🔖 Layout
 
